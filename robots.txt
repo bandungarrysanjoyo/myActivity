@@ -1,4 +1,3 @@
 User-agent: *
 Allow: /
-
 Sitemap: https://bandungarrysanjoyo.github.io/myActivity/sitemap.xml
